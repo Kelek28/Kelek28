@@ -5,9 +5,7 @@ About
 
 🌇 Bristol with passion for programming
 
-📚 Developed a full-stack taxi booking web application. Created front end of town resident card app using VueJs
-
-💻 As for my future, I hope to one day work as a software developer and work with a diverse team. Creating world-changing software
+💻 As for my future, become a software developer and work with a diverse team. Creating world-changing software
 
 🏔 In my free time, you can find me at the gym, playing chess or doing stand-up
 
