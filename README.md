@@ -1,4 +1,3 @@
-About
 👋🏽 Hi, my name is Kacper
 
 🎓 Second-year Computer Science student at the University of the West of England
